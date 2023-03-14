@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015165447167",
+    "project_id": "guiada22-c1789",
+    "storage_bucket": "guiada22-c1789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015165447167:android:86f910c09ce442bec715ca",
+        "android_client_info": {
+          "package_name": "com.example.guiada22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015165447167-b5hnlmn8cjas3okgfatp8a06okvp7e2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tW8h_tf1sXlqXqdKirKRfkFtPd2te4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015165447167-b5hnlmn8cjas3okgfatp8a06okvp7e2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
